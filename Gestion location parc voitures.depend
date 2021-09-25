@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1626183189 source:c:\users\utilisateur\desktop\formation c\mes projets\gestion location parc voitures\clients.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clients.h"
+	"parc_voitures.h"
+
+1626183189 source:c:\users\utilisateur\desktop\formation c\mes projets\gestion location parc voitures\parc_voitures.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parc_voitures.h"
+
+1626828868 source:c:\users\utilisateur\desktop\formation c\mes projets\gestion location parc voitures\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parc_voitures.h"
+	"clients.h"
+	"fichier_save.h"
+
+1626121032 c:\users\utilisateur\desktop\formation c\mes projets\gestion location parc voitures\parc_voitures.h
+
+1626139045 c:\users\utilisateur\desktop\formation c\mes projets\gestion location parc voitures\clients.h
+	"parc_voitures.h"
+
+1626562692 source:c:\users\utilisateur\desktop\formation c\mes projets\gestion location parc voitures\fichier_save.c
+	<stdlib.h>
+	<stdio.h>
+	"fichier_save.h"
+
+1626101791 c:\users\utilisateur\desktop\formation c\mes projets\gestion location parc voitures\fichier_save.h
+	"parc_voitures.h"
+	"clients.h"
+
+1626183189 source:c:\users\utilisateur\desktop\formation_c\mes_projets\gestion_location_parc_voitures\clients.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clients.h"
+	"parc_voitures.h"
+
+1626139045 c:\users\utilisateur\desktop\formation_c\mes_projets\gestion_location_parc_voitures\clients.h
+	"parc_voitures.h"
+
+1626121032 c:\users\utilisateur\desktop\formation_c\mes_projets\gestion_location_parc_voitures\parc_voitures.h
+
+1626562692 source:c:\users\utilisateur\desktop\formation_c\mes_projets\gestion_location_parc_voitures\fichier_save.c
+	<stdlib.h>
+	<stdio.h>
+	"fichier_save.h"
+
+1626101791 c:\users\utilisateur\desktop\formation_c\mes_projets\gestion_location_parc_voitures\fichier_save.h
+	"parc_voitures.h"
+	"clients.h"
+
+1626828868 source:c:\users\utilisateur\desktop\formation_c\mes_projets\gestion_location_parc_voitures\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parc_voitures.h"
+	"clients.h"
+	"fichier_save.h"
+
+1626183189 source:c:\users\utilisateur\desktop\formation_c\mes_projets\gestion_location_parc_voitures\parc_voitures.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parc_voitures.h"
+
